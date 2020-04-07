@@ -1,0 +1,19 @@
+** Random Test **
+CART  0 on Black  track between junctions E and A
+CART  1 on Green  track between junctions C and B
+CART  2 on Black  track between junctions A and E
+CART  3 on Red    track between junctions B and A
+CART  4 on Green  track between junctions C and B
+CART  5 on Blue   track between junctions C and D
+CART  6 on Red    track between junctions B and A
+CART  7 on Black  track between junctions A and E
+CART  8 on Yellow track between junctions D and E
+CART  9 on Black  track between junctions E and A
+CART 10 on Black  track between junctions E and A
+CART 11 on Yellow track between junctions E and D
+CART 12 on Green  track between junctions C and B
+CART 13 on Black  track between junctions A and E
+CART 14 on Black  track between junctions A and E
+CART 15 on Green  track between junctions B and C
+PASS All carts crossed safely
+    Functional: FAIL   (program error)
